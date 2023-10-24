@@ -4,11 +4,11 @@ __pycache__/
 *.pyo
 *.egg-info/
 .DS_Store
+OAI_CONFIG_LIST
 
 # virtual environment
 venv/
 .cache/
 .idea/
 autogen/
-git add .
-git commit -m "Initial commit"
+
