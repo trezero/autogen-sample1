@@ -1,0 +1,12 @@
+# Python files to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# virtual environment
+venv/
+.cache/
+autogen/
+git add .
+git commit -m "Initial commit"
