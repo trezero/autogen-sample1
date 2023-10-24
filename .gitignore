@@ -3,10 +3,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
+.DS_Store
 
 # virtual environment
 venv/
 .cache/
+.idea/
 autogen/
 git add .
 git commit -m "Initial commit"
